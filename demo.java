@@ -1,5 +1,5 @@
-class demo{
-publis static void main(String args[]){
-System.out.println("Welcome to Jenkins);
-}
+public class demo {
+    public static void main(String[] args) {
+        System.out.println("Hello Jenkins");
+    }
 }
